@@ -22,3 +22,5 @@ Power BI | DAX | Power Query | Data Cleaning | Data Analysis | Data Visualizatio
 Short GitHub Description
 
 Netflix Data Analysis Dashboard built using Power BI to analyze customer subscriptions, revenue, engagement, ratings, demographics, account status, payment methods, and content preferences through interactive KPIs, charts, and slicers.
+Dashoard Preview--- (https://github.com/kuberarora16/Netflix-Data-Analysis-Project/blob/main/netflix%20dashbord111.png)
+
